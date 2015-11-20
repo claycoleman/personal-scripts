@@ -6,5 +6,5 @@ Some scripts that I wrote to do useful things.
         fork();
     
     def best(self):
-	print "**trollface**"
-	return 'python'
+        print "**trollface**"
+        return 'python'
